@@ -13,7 +13,7 @@ Public Class frmScrCap
             screenshot = New System.Drawing.Bitmap(bounds.Width, bounds.Height, System.Drawing.Imaging.PixelFormat.Format32bppRgb)
             graph = Graphics.FromImage(screenshot)
             graph.CopyFromScreen(0, 0, 0, 0, bounds.Size, CopyPixelOperation.SourceCopy)
-            screenshot.Save("\\WSID-175\ScreenCapture$\" & FileName & ".jpg", Imaging.ImageFormat.Bmp)
+            screenshot.Save("\\<DeviceIP/Name>\<Shared Folder[$]>\" & FileName & ".jpg", Imaging.ImageFormat.Bmp)
             graph.Dispose()
             screenshot.Dispose()
         Catch ex As Exception

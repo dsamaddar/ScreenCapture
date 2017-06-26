@@ -8,3 +8,6 @@ C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\bin\Debug
 C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\e-HRM-Att.exe
 C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\e-HRM-Att.xml
 C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\e-HRM-Att.pdb
+D:\GitProjects\ScreenCapture\ScrCap\obj\Debug\e-HRM-Att.exe
+D:\GitProjects\ScreenCapture\ScrCap\obj\Debug\e-HRM-Att.xml
+D:\GitProjects\ScreenCapture\ScrCap\obj\Debug\e-HRM-Att.pdb
