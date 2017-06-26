@@ -1,0 +1,10 @@
+D:\GitProjects\ScreenCapture\ScrCap\bin\Release\e-HRM-Att.exe
+D:\GitProjects\ScreenCapture\ScrCap\bin\Release\e-HRM-Att.pdb
+D:\GitProjects\ScreenCapture\ScrCap\bin\Release\e-HRM-Att.xml
+D:\GitProjects\ScreenCapture\ScrCap\obj\Release\ResolveAssemblyReference.cache
+D:\GitProjects\ScreenCapture\ScrCap\obj\Release\ScrCap.frmScrCap.resources
+D:\GitProjects\ScreenCapture\ScrCap\obj\Release\ScrCap.Resources.resources
+D:\GitProjects\ScreenCapture\ScrCap\obj\Release\ScrCap.vbproj.GenerateResource.Cache
+D:\GitProjects\ScreenCapture\ScrCap\obj\Release\e-HRM-Att.exe
+D:\GitProjects\ScreenCapture\ScrCap\obj\Release\e-HRM-Att.xml
+D:\GitProjects\ScreenCapture\ScrCap\obj\Release\e-HRM-Att.pdb
