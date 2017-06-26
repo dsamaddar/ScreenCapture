@@ -1,0 +1,10 @@
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\ScrCap.Resources.resources
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\ScrCap.vbproj.GenerateResource.Cache
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\ScrCap.frmScrCap.resources
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\bin\Debug\e-HRM-Att.exe
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\bin\Debug\e-HRM-Att.pdb
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\bin\Debug\e-HRM-Att.xml
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\e-HRM-Att.exe
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\e-HRM-Att.xml
+C:\Users\dsamaddar\Documents\Visual Studio 2008\Projects\ScrCap\ScrCap\obj\Debug\e-HRM-Att.pdb
